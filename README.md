@@ -19,10 +19,8 @@
 - 🔭 I’m currently working on  Soy Estudiante
   
 - 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
+    
+- 💬 Ask me about Sql, Java,  JavaScript
   
 - ⚡ Fun fact: Me gusta el deporte .
 
